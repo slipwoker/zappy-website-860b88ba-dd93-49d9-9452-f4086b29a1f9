@@ -1,0 +1,104 @@
+# LUMIÈRE — Generative Engine Optimization Map
+
+> A glamorous handmade Judaica shop specializing in crystal beaded mezuzahs crafted by hand. The brand embraces a bold Barbie-inspired aesthetic — think hot pink, glitter, sparkle, and maximalist femininity. The products blend spiritual Jewish tradition with luxurious, eye-catching crystal craftsmanship, appealing to customers who want their home décor to be both meaningful and dazzling. The overall vibe is fun, feminine, sparkly, and unapologetically bold.
+
+---
+
+## Pages
+
+### בית
+https://lumi-re-860b88ba.zappy5.app
+מזוזות קריסטל בעבודת יד שמביאות ניצוץ של מסורת יהודית וזוהר מקסימליסטי לכל בית. כנסי עכשיו לעולם של ורוד, נצנצים ויוקרה רוחנית — LUMIÈRE.
+
+### אומנות
+https://lumi-re-860b88ba.zappy5.app/craftsmanship
+גלי את סודות האומנות שמאחורי כל מזוזת קריסטל — חרוזים שנבחרו בקפידה, עבודת יד מושקעת ותשומת לב לכל פרט נוצץ. הצטרפי למסע היצירה עכשיו.
+
+### הסיפור שלנו
+https://lumi-re-860b88ba.zappy5.app/story
+הסיפור של LUMIÈRE נולד מאהבה למסורת, נשיות בועטת ואסתטיקת ברבי נועזת. הכירי את החזון שמאחורי המזוזות הכי נוצצות בעולם — היכנסי ותתאהבי.
+
+### צור קשר
+https://lumi-re-860b88ba.zappy5.app/contact
+רוצה מזוזה מותאמת אישית או סתם להגיד שלום? מלאי את הפרטים ונחזור אלייך עם כל הברק והאהבה. בואי נדבר על היופי שבמסורת — LUMIÈRE.
+
+### Products
+https://lumi-re-860b88ba.zappy5.app/products
+המוצרים שלנו - LUMIÈRE
+
+### Cart
+https://lumi-re-860b88ba.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://lumi-re-860b88ba.zappy5.app/checkout
+תשלום
+
+### Login
+https://lumi-re-860b88ba.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://lumi-re-860b88ba.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://lumi-re-860b88ba.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://lumi-re-860b88ba.zappy5.app/product/:slug
+פרטי המוצר - LUMIÈRE
+
+### Category
+https://lumi-re-860b88ba.zappy5.app/category/:slug
+מוצרים - LUMIÈRE
+
+### תודה רבה | LUMIÈRE
+https://lumi-re-860b88ba.zappy5.app/thank-you
+תודה על פנייתך ל-LUMIÈRE. הודעתך התקבלה בהצלחה. עיין בקולקציית foscarini lumiere table lamp שלנו בזמן שאנו מטפלים בפנייתך.
+
+## Legal & Policy
+
+### Privacy Policy
+https://lumi-re-860b88ba.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://lumi-re-860b88ba.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://lumi-re-860b88ba.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About LUMIÈRE
+A glamorous handmade Judaica shop specializing in crystal beaded mezuzahs crafted by hand. The brand embraces a bold Barbie-inspired aesthetic — think hot pink, glitter, sparkle, and maximalist femininity. The products blend spiritual Jewish tradition with luxurious, eye-catching crystal craftsmanship, appealing to customers who want their home décor to be both meaningful and dazzling. The overall vibe is fun, feminine, sparkly, and unapologetically bold.
+
+## Target Audience
+- חובבי מסורת יהודית
+- חובבי עיצוב פנים
+- קונים של מתנות יהודיות
+
+## Industry
+E-commerce / Handmade Judaica
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://lumi-re-860b88ba.zappy5.app/sitemap.xml
+- Robots: https://lumi-re-860b88ba.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://lumi-re-860b88ba.zappy5.app/llms-full.txt
+- Products (JSON): https://lumi-re-860b88ba.zappy5.app/products.json
+- Products (Google Merchant RSS): https://lumi-re-860b88ba.zappy5.app/product-feed.xml
